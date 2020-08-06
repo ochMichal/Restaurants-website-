@@ -43,3 +43,5 @@ D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood\obj\D
 D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Edit.cshtml.g.cs
 D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CoreCompileInputs.cache
 D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Delete.cshtml.g.cs
+D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\_Summary.cshtml.g.cs
+D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\Components\RestaurantCount\Default.cshtml.g.cs
