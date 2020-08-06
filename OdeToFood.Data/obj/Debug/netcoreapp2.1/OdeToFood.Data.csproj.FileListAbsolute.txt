@@ -1,0 +1,15 @@
+D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.deps.json
+D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.dll
+D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
+D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csprojAssemblyReference.cache
+D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfoInputs.cache
+D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfo.cs
+D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CopyComplete
+D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.dll
+D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.pdb
+D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.runtimeconfig.json
+D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.runtimeconfig.dev.json
+D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CoreCompileInputs.cache
+D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.genruntimeconfig.cache
