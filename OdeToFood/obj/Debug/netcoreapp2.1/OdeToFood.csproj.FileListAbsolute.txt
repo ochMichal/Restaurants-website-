@@ -41,8 +41,10 @@ D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood\obj\D
 D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
 D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\NotFound.cshtml.g.cs
 D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Edit.cshtml.g.cs
-D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CoreCompileInputs.cache
 D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Delete.cshtml.g.cs
 D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\_Summary.cshtml.g.cs
 D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\Components\RestaurantCount\Default.cshtml.g.cs
 D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\ClientRestaurants.cshtml.g.cs
+D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\package-lock.json
+D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\package.json
+D:\Dev\ASP.NET Core Fundamentals Scott Allen\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CoreCompileInputs.cache

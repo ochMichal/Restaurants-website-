@@ -87,7 +87,7 @@ using OdeToFood.Core;
             WriteLiteral("</span>\r\n    </div>\r\n    <div class=\"panel-footer\">\r\n        ");
             EndContext();
             BeginContext(330, 172, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "53a2ac1697f741db8f34c78c96b0c6c7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8d4e0c675d704d9f82678c2816444da9", async() => {
                 BeginContext(431, 67, true);
                 WriteLiteral("\r\n            <i class=\"glyphicon glyphicon-zoom-in\"></i>\r\n        ");
                 EndContext();
@@ -123,7 +123,7 @@ using OdeToFood.Core;
             WriteLiteral("\r\n        ");
             EndContext();
             BeginContext(512, 167, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "02fd635a7ca94e55b264310d35c79857", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "35024e4a569d4455bafb3788bceed44c", async() => {
                 BeginContext(611, 64, true);
                 WriteLiteral("\r\n            <i class=\"glyphicon glyphicon-edit\"></i>\r\n        ");
                 EndContext();
@@ -159,7 +159,7 @@ using OdeToFood.Core;
             WriteLiteral("\r\n        ");
             EndContext();
             BeginContext(689, 170, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fd2743fbe7bb49ee955ff57ed11afa09", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4a72bd93c50d4bde8628932869b9b63e", async() => {
                 BeginContext(790, 65, true);
                 WriteLiteral("\r\n            <i class=\"glyphicon glyphicon-trash\"></i>\r\n        ");
                 EndContext();
